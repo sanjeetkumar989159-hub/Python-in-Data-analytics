@@ -1,6 +1,6 @@
 import random
 
-number = random.randint(1, 50)
+number = random.randint(1, 50
 
 print("Guess the number (1 to 50)")
 print("You have 3 chances")
